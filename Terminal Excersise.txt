@@ -1,0 +1,11 @@
+1. man command opens the manual page of the command. You can scroll with enter or arrow key, and you leave with q.
+2. -i print the index number of each file, -a do not ignore entries starting with .
+3.Alt left/right
+4.ctrl + e
+5. ctrl + a
+6.alt + delete
+7. Terminal is a place to enter commands, the shell is what handles the commands.
+8.A complete path to file or folder. Starts from root.
+9. A path that starts from current directory and not root.
+10. Flag gives a command extra options. cp -r, rm -rf, ls -a
+11.r removes the folder and will go through each folder and file and f will force remove it.
